@@ -54,6 +54,33 @@ console.log(index++, runner5);
 
 
 
+let num_index = 1;
+let current_date = 2024;
+
+
+let user_name1 = prompt('Введите имя первого пользователя: ');
+let user_year1 = prompt('Введите год рождения первого пользователя: ');
+let user_age1 = current_date - user_year1;
+
+console.log(num_index, user_name1, user_age1);
+
+let user_name2 = prompt('Введите имя второго пользователя: ');
+let user_year2 = prompt('Введите год рождения второго пользователя: ');
+let user_age2 = current_date - user_year2;
+
+console.log(++num_index, user_name2, user_age2);
+
+let user_name3 = prompt('Введите имя третьего пользователя: ');
+let user_year3 = prompt('Введите год рождения третьего пользователя: ');
+let user_age3 = current_date - user_year3;
+
+console.log(++num_index, user_name3, user_age3);
+
+let average_age = (user_age1 + user_age2 + user_age3) / 3;
+
+console.log('Средний возраст пользователей: ', average_age);
+
+
 
 
 // let my_num = 1;
