@@ -1,6 +1,24 @@
-const tumbler = true;
+let enter_card = prompt('Ввести карту: ');
 
-tumbler ? console.log('Свет включен') : console.log('Свет выключен');
+if (enter_card == 'Нет') {
+
+    console.log('Всего доброго!');
+
+} else if (enter_card == 'Да') {
+
+    let user_withdraw = prompt('Сколько денег необходимо снять? ');
+
+    let cash = 500;
+    if (cash >= user_withdraw) {
+        console.log('Операция выполняется');
+    } else {
+        console.log('Операция отклонена');
+    }
+
+} else {
+    console.log('Ошибка ввода - введите "Да" или "Нет"');
+}
+
 
 
 // const num = 10;
