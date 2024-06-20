@@ -1,23 +1,33 @@
-let enter_card = prompt('Ввести карту: ');
+//TASK № 1
 
-if (enter_card == 'Нет') {
+// function getAverage(num = 0, num2 = 0, num3 = 0) {
+//     return (num + num2 + num3) / 3;
+// }
 
-    console.log('Всего доброго!');
+// console.log(getAverage(1, 2, 3));
 
-} else if (enter_card == 'Да') {
 
-    let user_withdraw = prompt('Сколько денег необходимо снять? ');
 
-    let cash = 500;
-    if (cash >= user_withdraw) {
-        console.log('Операция выполняется');
-    } else {
-        console.log('Операция отклонена');
-    }
+// let enter_card = prompt('Ввести карту: ');
 
-} else {
-    console.log('Ошибка ввода - введите "Да" или "Нет"');
-}
+// if (enter_card == 'Нет') {
+
+//     console.log('Всего доброго!');
+
+// } else if (enter_card == 'Да') {
+
+//     let user_withdraw = prompt('Сколько денег необходимо снять? ');
+
+//     let cash = 500;
+//     if (cash >= user_withdraw) {
+//         console.log('Операция выполняется');
+//     } else {
+//         console.log('Операция отклонена');
+//     }
+
+// } else {
+//     console.log('Ошибка ввода - введите "Да" или "Нет"');
+// }
 
 
 
