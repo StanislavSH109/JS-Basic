@@ -6,6 +6,19 @@
 
 // console.log(getAverage(1, 2, 3));
 
+//TASK № 2
+
+// function getFahrenheit(celsius) {
+//     return celsius * 1.8 + 32;
+// }
+
+// function getCelsius(fahrenheit) {
+//     return (fahrenheit - 32) / 1.8
+// }
+
+// console.log(getFahrenheit(25));
+// console.log(getCelsius(77));
+
 
 
 // let enter_card = prompt('Ввести карту: ');
