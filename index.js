@@ -30,6 +30,20 @@
 // console.log(getCelsius(77));
 
 
+//TASK № 5
+
+// let priceItem = 25000;
+// let amountItem = 3;
+// let discountItem = 20; 
+
+
+// function totalSum(price, amount, discount) {
+//     result = price * amount  * (1 - discount / 100);
+//     return result;
+// }
+
+// console.log(totalSum(priceItem, amountItem, discountItem))
+
 
 // let enter_card = prompt('Ввести карту: ');
 
