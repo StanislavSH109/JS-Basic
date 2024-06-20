@@ -20,6 +20,16 @@
 // console.log(getCelsius(77));
 
 
+//TASK № 3
+
+// const getFahrenheit = (celsius) => celsius * 1.8 + 32;
+
+// const getCelsius = (fahrenheit) => (fahrenheit - 32) / 1.8;
+
+// console.log(getFahrenheit(25));
+// console.log(getCelsius(77));
+
+
 
 // let enter_card = prompt('Ввести карту: ');
 
