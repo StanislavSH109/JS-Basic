@@ -1,3 +1,17 @@
+// CALLBACK FUNCTION 
+
+// function greeting (name) {
+//     console.log(`Hello, ${name}!`);
+// }
+
+// function user(callback) {
+//     const userName = prompt('Введите свое имя: ');
+//     callback(userName);
+// }
+
+// user(greeting);
+
+
 //TASK № 1
 
 // function getAverage(num = 0, num2 = 0, num3 = 0) {
