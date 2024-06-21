@@ -1,3 +1,18 @@
+// CREATE COUNTER 
+
+// let count = 0;
+        
+// const counterElement = document.querySelector('.counter');
+// const myButton = document.querySelector('.myButton');
+
+// function increase () {
+//     count++;
+//     counterElement.textContent = 'Счётчик: ' + count;
+// }
+
+// myButton.onclick = increase;
+
+
 //CALLBACK FUNC2
 
 // function access(age) {
