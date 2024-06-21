@@ -1,3 +1,22 @@
+//CALLBACK FUNC2
+
+// function access(age) {
+//     if (age >= 18) {
+//         console.log('Добро пожаловать на сайт!');
+//     } else {
+//         console.log('Доступ запрещен!');
+//     }
+
+// }
+
+// function userInput(callback) {
+//     const userAge = prompt('Введите ваш возраст: ');
+//     callback(userAge);
+// }
+
+
+// userInput(access);
+
 // CALLBACK FUNCTION 
 
 // function greeting (name) {
