@@ -1,19 +1,49 @@
 //SHOP CART
+// <!DOCTYPE html>
+// <html lang="en">
 
+// <head>
+//     <meta charset="UTF-8">
+//     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+//     <title>Document</title>
+//     <link rel="stylesheet" href="style.css">
+// </head>
 
-/* <script>
+// <body>
+//     <h1>Каталог товаров</h1>
+//     <ul id="product-list">
+//         <li>
+//             <span>Товар 1</span>
+//             <button onclick="addToCart('Товар 1')">Добавить в корзину</button>
+//         </li>
+//         <li>
+//             <span>Товар 2</span>
+//             <button onclick="addToCart('Товар 2')">Добавить в корзину</button>
+//         </li>
+//         <li>
+//             <span>Товар 3</span>
+//             <button onclick="addToCart('Товар 3')">Добавить в корзину</button>
+//         </li>
+//     </ul>
+//     <h1>Корзина</h1>
+//     <ul id="cart">
+//     </ul>
+//     <script>
+        
 
-        function addToCart (product) {
+//         function addToCart (product) {
 
-            const productItem = document.createElement('li');
-            productItem.textContent = product;
-            document.getElementById('cart').append(product);
+//             const productItem = document.createElement('li');
+//             productItem.textContent = product;
+//             document.getElementById('cart').append(productItem);
             
-        }
+//         }
 
 
-    </script> */
+//     </script>
+// </body>
 
+// </html>
 
 // CREATE COUNTER 
 
