@@ -1,3 +1,20 @@
+//SHOP CART
+
+
+/* <script>
+
+        function addToCart (product) {
+
+            const productItem = document.createElement('li');
+            productItem.textContent = product;
+            document.getElementById('cart').append(product);
+            
+        }
+
+
+    </script> */
+
+
 // CREATE COUNTER 
 
 // let count = 0;
