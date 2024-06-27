@@ -1,3 +1,20 @@
+//Create list with products
+
+// const products = ['Мышка', 'Клавиатура', 'Наушники'];
+//                 const newProducts = ['Монитор', 'Принтер', 'Флешка'];
+
+//                 for (product of newProducts) {
+//                     products.push(product);
+//                 }
+
+//                 for (element in products) {
+//                     const listEl = document.querySelector('.products');
+//                     const liItem = document.createElement('li');
+//                     listEl.append(liItem);
+//                     liItem.textContent = products[element];
+//                 }
+
+
 //FIND MIN MAX NUMBER FROM ARRAY;
 
 // <!DOCTYPE html>
