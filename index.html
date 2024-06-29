@@ -12,9 +12,14 @@
     <script>
 
         const myArray = [5, 2, 1, 7];
-        myArray.forEach(el => {
-            console.log(el);
-        });
+        const myArray2 = [231, 214, 12, 2836, 0];
+        const myArray3 = [234, 334, 777, 123];
+
+        let result = [...myArray, ...myArray2, ...myArray3];
+
+        let final_result = result.sort();
+        console.log(final_result);
+      
 
     </script>
 <body>
